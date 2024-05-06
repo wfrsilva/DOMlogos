@@ -37,6 +37,7 @@ CIS/AMFRI - Consórcio Intermunicipal de Saúde da Região da Foz do Rio Itajaí
 CIS/AMOSC - Consórcio Intermunicipal de Saúde do Oeste de SC|CIS/AMOSC
 CIS/AMUREL - Consórcio Intermunicipal de Saúde da AMUREL|CIS/AMUREL
 CIS/AMURES - Consórcio Intermunicipal de Saúde da Micro região da AMURES|CIS/AMURES
+CIS/AMURES - CONSORCIO INTERMUNICIPAL DE SAUDE DA REGIAO DA AMURES|CIS/AMURES
 CIS/AMVI - Consórcio Intermunicipal de Saúde do Médio Vale do Itajaí|CIS/AMVI
 CISAM - Consórcio Intermunicipal de Saneamento Ambiental|CISAM
 CISAM-SUL - Consórcio Intermunicipal de Saneamento Ambiental|CISAM-SUL
