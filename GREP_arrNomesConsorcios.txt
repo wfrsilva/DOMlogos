@@ -35,6 +35,7 @@ CIS/AMAUC - Consórcio Intermunicipal de Saude do Alto Uruguai Catarinense|CIS/A
 CIS/AMERIOS - Consorcio Intermunicipal de Saude da AMERIOS|CIS/AMERIOS
 CIS/AMFRI - Consórcio Intermunicipal de Saúde da Região da Foz do Rio Itajaí|CIS/AMFRI
 CIS/AMOSC - Consórcio Intermunicipal de Saúde do Oeste de SC|CIS/AMOSC
+CIS/AMOSC - CONSORCIO INTERFEDERATIVO DE SAUDE DO OESTE DE SC|CIS/AMOSC
 CIS/AMUREL - Consórcio Intermunicipal de Saúde da AMUREL|CIS/AMUREL
 CIS/AMURES - Consórcio Intermunicipal de Saúde da Micro região da AMURES|CIS/AMURES
 CIS/AMURES - CONSORCIO INTERMUNICIPAL DE SAUDE DA REGIAO DA AMURES|CIS/AMURES
