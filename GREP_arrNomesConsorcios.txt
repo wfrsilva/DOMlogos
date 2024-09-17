@@ -25,6 +25,7 @@ CINCATARINA - Consórcio Interfederativo Santa Catarina|CINCATARINA
 CINFRA - Consórcio Intermunicipal de Infraestrutura Rodoviária da AMESC|CINFRA
 CIS/AMEOSC - Consórcio Intermunicipal de Saúde da AMEOSC|CIS/AMEOSC
 CISAMARP - Consórcio Intermunicipal de Saúde do Alto Vale do Rio do Peixe|CISAMARP
+CISAMARP - Consórcio Público Interfederativo de Saúde do Alto Vale do Rio do Peixe|CISAMARP
 CIRSURES - Consórcio Intermunicipal de Resíduos Sólidos Urbanos da Região Sul|CIRSURES
 CIS-GRANFPOLIS - Consórcio Intermunicipal de Saúde da Região da Grande Florianópolis|CIS-GRANFPOLIS
 CIS-AMAVI - CONSÓRCIO INTERMUNICIPAL DE SAÚDE DO ALTO VALE DO ITAJAÍ|CIS-AMAVI
