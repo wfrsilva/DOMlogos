@@ -23,6 +23,7 @@ CIMPLASC - Consórcio Intermunicipal de Saneamento Básico, Meio Ambiente, Aten�
 CIMVI - Consórcio Intermunicipal do Médio Vale do Itajaí|CIMVI
 CINCATARINA - Consórcio Interfederativo Santa Catarina|CINCATARINA
 CINFRA - Consórcio Intermunicipal de Infraestrutura Rodoviária da AMESC|CINFRA
+CISAMERIOS/SC - CONSORCIO PUBLICO INTERFEDERATIVO DE SAUDE DA AMERIOS|CISAMERIOS/SC
 CIS/AMEOSC - Consórcio Intermunicipal de Saúde da AMEOSC|CIS/AMEOSC
 CISAMARP - Consórcio Intermunicipal de Saúde do Alto Vale do Rio do Peixe|CISAMARP
 CISAMARP - Consórcio Público Interfederativo de Saúde do Alto Vale do Rio do Peixe|CISAMARP
